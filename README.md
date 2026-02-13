@@ -104,4 +104,4 @@ jupyter notebook
 ---
 
 ## 📎 Author
-Created by: **Your Name**
+Created by: **Krish**
