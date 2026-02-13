@@ -96,10 +96,13 @@ jupyter notebook
 ---
 
 ## 📌 Project Deliverables
-**✅ Notebook**(`notebook.ipynb`)
-**✅ README**(`README.md`)
-**✅ Results section**(`metrics`)
-**✅ Sample predictions file**(`results/sample_predictions.csv`)
+**✅ Notebook(`notebook.ipynb`)**
+
+**✅ README(`README.md`)**
+
+**✅ Results section(`metrics`)**
+
+**✅ Sample predictions file(`results/sample_predictions.csv`)**
 
 ---
 
